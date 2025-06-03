@@ -9,3 +9,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  echo "# Email-Setup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/enorthcutt/Email-Setup.git
+git push -u origin main
+
