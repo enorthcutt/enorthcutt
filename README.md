@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-  echo "# Email-Setup" >> README.md
+- 🌐🌃echo "# Email-Setup" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
